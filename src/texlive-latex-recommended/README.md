@@ -1,13 +1,13 @@
 
-# TexLive Base (texlive-base)
+# TexLive Latex Recommended (texlive-latex-recommended)
 
-A feature providing a minimal texlive environment.
+A feature providing the recommended latex texlive environment.
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/daniel-eder/devcontainers-feature-texlive/texlive-base:1": {}
+    "ghcr.io/daniel-eder/devcontainers-feature-texlive/texlive-latex-recommended:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature providing a minimal texlive environment.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/daniel-eder/devcontainers-feature-texlive/blob/main/src/texlive-base/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/daniel-eder/devcontainers-feature-texlive/blob/main/src/texlive-latex-recommended/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
