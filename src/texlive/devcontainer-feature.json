@@ -1,0 +1,11 @@
+{
+    "name": "TexLive",
+    "id": "texlive",
+    "version": "1.0.0",
+    "description": "A feature providing a texlive environment.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}

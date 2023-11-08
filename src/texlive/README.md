@@ -1,13 +1,13 @@
 
-# Hello, World! (hello)
+# Texlive
 
-A hello world feature
+Installs a texlive environment
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
+    "ghcr.io/daniel-eder/devcontainers-feature-texlive/texlive:1": {
         "version": "latest"
     }
 }
@@ -17,7 +17,6 @@ A hello world feature
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
 
 
 
