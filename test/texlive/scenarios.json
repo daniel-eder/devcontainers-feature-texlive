@@ -1,5 +1,5 @@
 {
-    "hello": {
+    "texlive": {
         "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
         "features": {
             "texlive": {
