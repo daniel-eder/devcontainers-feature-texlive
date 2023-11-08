@@ -1,7 +1,7 @@
 {
     "name": "TexLive Latex Recommended",
     "id": "texlive-latex-recommended",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A feature providing the recommended latex texlive environment.",
     "options": {
     },
