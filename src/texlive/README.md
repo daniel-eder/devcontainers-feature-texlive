@@ -1,15 +1,13 @@
 
-# Texlive
+# TexLive (texlive)
 
-Installs a texlive environment
+A feature providing a texlive environment.
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/daniel-eder/devcontainers-feature-texlive/texlive:1": {
-        "version": "latest"
-    }
+    "ghcr.io/daniel-eder/devcontainers-feature-texlive/texlive:1": {}
 }
 ```
 
@@ -20,6 +18,7 @@ Installs a texlive environment
 
 
 
+
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/daniel-eder/devcontainers-feature-texlive/blob/main/src/texlive/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
