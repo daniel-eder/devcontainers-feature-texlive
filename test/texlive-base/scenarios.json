@@ -1,0 +1,9 @@
+{
+    "texlive-base": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "texlive-base": {
+            }
+        }
+    }
+}

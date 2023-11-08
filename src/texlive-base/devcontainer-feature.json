@@ -1,0 +1,11 @@
+{
+    "name": "TexLive Base",
+    "id": "texlive-base",
+    "version": "1.0.0",
+    "description": "A feature providing a minimal texlive environment.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
