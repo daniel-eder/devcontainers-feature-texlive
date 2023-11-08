@@ -1,0 +1,9 @@
+{
+    "texlive-latex-recommended": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "texlive-latex-recommended": {
+            }
+        }
+    }
+}

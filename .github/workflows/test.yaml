@@ -15,6 +15,7 @@ jobs:
         features:
           - texlive
           - texlive-base
+          - texlive-latex-recommended
         baseImage:
           - debian:latest
           - ubuntu:latest
@@ -36,6 +37,7 @@ jobs:
         features:
           - texlive
           - texlive-base
+          - texlive-latex-recommended
     steps:
       - uses: actions/checkout@v3
 

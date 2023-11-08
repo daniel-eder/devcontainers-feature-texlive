@@ -1,0 +1,11 @@
+{
+    "name": "TexLive Latex Recommended",
+    "id": "texlive-latex-recommended",
+    "version": "1.0.0",
+    "description": "A feature providing the recommended latex texlive environment.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
